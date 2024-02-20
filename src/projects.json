@@ -4,20 +4,22 @@
       "title": "Florist-store-website",
       "deployedLink": "https://github.com/Aijus2022/Florist-store-website",
       "githubLink": "https://github.com/Aijus2022/Florist-store-website/deployments",
-      "image": "",
-      "description": "Description of Project 1"
+      "image": "project1.png",
+      "description": "My first project is a vibrant online florist store,which I have created using HTML and CSS Grid
+      with a focus on responsive design through media queries."
     },
     {
       "id": 2,
-      "title": "Project 2",
-      "deployedLink": "https://aijus2022.github.io/Console-Finances/",
-      "githubLink": "https://github.com/Aijus2022/Console-Finances",
+      "title": "My-new-projects",
+      "deployedLink": "https://aijus2022.github.io/my-new-projects/",
+      "githubLink": "https://github.com/Aijus2022/my-new-projects",
       "image": "project2.png",
-      "description": "Console Finances is a JavaScript application that analyzes the financial records of a company based on a provided dataset. It calculates key financial metrics and displays the results in the console and on a simple HTML page.
-                      Technologies Used:JavaScript,HTML,CSS},
+      "description": "Front-end Developer Bootcamp Student Profile is designed to showcase my profile with a modern and user-friendly 
+      interface.Technologies Used HTML5 CSS3 (Flexbox) JavaScript" },
+   
     {
       "id": 3,
-      "title": "Project 3",
+      "title": "Javascript-Quizz-App",
       "deployedLink": "https://aijus2022.github.io/Javascript-Quizz-App/",
       "githubLink": "https://github.com/Aijus2022/Javascript-Quizz-App",
       "image": "project3.png",
@@ -60,7 +62,7 @@
         Technologies Used:HTML,CSS,JavaScript,API"
     },
         "id": 8,
-        "title": "NYT-articles-via-api-app",
+        "title": "Weather-dashboard",
         "deployedLink": "https://aijus2022.github.io/NYT-articles-via-api-app/?s",
         "githubLink": "https://github.com/Aijus2022/weather-dashboard/tree/main",
         "image": "project8.png",
@@ -157,7 +159,25 @@ The New York Times Article Search API for news articles"}
     Fetch API for data retrieval
     Back-End:    
     OpenWeatherMap API for weather data
-    The New York Times Article Search API for news articles"}           
+    The New York Times Article Search API for news articles"},
+    {"id": 16,
+    "title": "Bootstrap-Portfolio",
+    "deployedLink": "https://github.com/Aijus2022/Bootstrap-Portfolio/deployments",
+    "githubLink": "https://github.com/Aijus2022/Bootstrap-Portfolio/deployments",
+    "image": "project16.png",
+    "description": "Bootstrap-Portfolio My front developer portfolio which showcases my projects in web development using Bootstrap CSS and incorporates a custom theme that aligns with my personal style and preferences.
+    Overview This portfolio serves as a showcase of my skills, projects, and experiences. It is designed to provide visitors with an insight into my background, expertise, and the work I've done. The website is responsive, ensuring a seamless experience across various devices.
+    
+    Technologies Used Bootstrap HTML CSS"},
+    {
+      "id": 17,
+      "title": "Console-Finances",
+      "deployedLink": "https://aijus2022.github.io/Console-Finances/",
+      "githubLink": "https://github.com/Aijus2022/Console-Finances",
+      "image": "project17.png",
+      "description": "Console Finances is a JavaScript application that analyzes the financial records of a company based on a provided dataset. It calculates key financial metrics and displays the results in the console and on a simple HTML page.
+                      Technologies Used:JavaScript,HTML,CSS},    
+
              
         
   ]
