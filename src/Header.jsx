@@ -1,12 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import logo from './logo.png'; // Assuming logo.png is in the same directory as Header.jsx
 
 function Header() {
   return (
     <header>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
-          <Link className="navbar-brand" to="/">My Portfolio</Link>
+          <Link className="navbar-brand d-flex align-items-center" to="/">
+            <img
+              src={logo}
+              alt="logo"
+              style={{
+                height: '40px',
+                padding: '1.5em',
+                willChange: 'filter',
+                transition: 'filter 300ms',
+              }}
+              className="logo"
+            />
+            My Portfolio
+          </Link>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
