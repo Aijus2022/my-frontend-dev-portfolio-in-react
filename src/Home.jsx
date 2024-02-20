@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <Header />
       <section className="hero-section">
-        <img src={C:\Users\vivaa\OneDrive\Pictures\background.jpg} alt="Hero" className="hero-image" />
+        <img src={images/Default_3_d_golden_letter_A_logo_inside_jadediamond_and_saphir_0 (1).jpg} alt="Hero" className="hero-image" />
         <div className="hero-text">
           <h1>Welcome to My Portfolio</h1>
         </div>
